@@ -1,0 +1,14 @@
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\bin\Debug\net6.0\01. Match given pattern.exe
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\bin\Debug\net6.0\01. Match given pattern.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\bin\Debug\net6.0\01. Match given pattern.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\bin\Debug\net6.0\01. Match given pattern.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\bin\Debug\net6.0\01. Match given pattern.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\refint\01. Match given pattern.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\01. Match given pattern.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\01. Match given pattern\01. Match given pattern\obj\Debug\net6.0\ref\01. Match given pattern.dll

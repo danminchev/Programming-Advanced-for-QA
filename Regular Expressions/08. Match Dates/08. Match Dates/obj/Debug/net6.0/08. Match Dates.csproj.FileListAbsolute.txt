@@ -1,0 +1,14 @@
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\bin\Debug\net6.0\08. Match Dates.exe
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\bin\Debug\net6.0\08. Match Dates.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\bin\Debug\net6.0\08. Match Dates.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\bin\Debug\net6.0\08. Match Dates.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\bin\Debug\net6.0\08. Match Dates.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\refint\08. Match Dates.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\08. Match Dates.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\08. Match Dates\08. Match Dates\obj\Debug\net6.0\ref\08. Match Dates.dll

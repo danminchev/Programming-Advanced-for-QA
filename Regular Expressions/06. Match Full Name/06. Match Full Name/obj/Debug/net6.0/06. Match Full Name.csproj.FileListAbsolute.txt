@@ -1,0 +1,14 @@
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\bin\Debug\net6.0\06. Match Full Name.exe
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\bin\Debug\net6.0\06. Match Full Name.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\bin\Debug\net6.0\06. Match Full Name.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\bin\Debug\net6.0\06. Match Full Name.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\bin\Debug\net6.0\06. Match Full Name.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\refint\06. Match Full Name.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\06. Match Full Name.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\06. Match Full Name\06. Match Full Name\obj\Debug\net6.0\ref\06. Match Full Name.dll

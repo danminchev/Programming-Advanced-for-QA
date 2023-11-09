@@ -1,0 +1,14 @@
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\bin\Debug\net6.0\04. Replacing with Regex.exe
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\bin\Debug\net6.0\04. Replacing with Regex.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\bin\Debug\net6.0\04. Replacing with Regex.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\bin\Debug\net6.0\04. Replacing with Regex.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\bin\Debug\net6.0\04. Replacing with Regex.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\refint\04. Replacing with Regex.dll
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.pdb
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\04. Replacing with Regex.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Regular Expressions\04. Replacing with Regex\04. Replacing with Regex\obj\Debug\net6.0\ref\04. Replacing with Regex.dll
