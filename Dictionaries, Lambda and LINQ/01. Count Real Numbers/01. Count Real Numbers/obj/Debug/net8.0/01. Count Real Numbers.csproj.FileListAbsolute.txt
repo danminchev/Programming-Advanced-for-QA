@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net8.0\01. Count Real Numbers.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\refint\01. Count Real Numbers.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\01. Count Real Numbers.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net8.0\ref\01. Count Real Numbers.dll

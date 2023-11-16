@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\bin\Debug\net8.0\03. Word Synonyms.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\bin\Debug\net8.0\03. Word Synonyms.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\bin\Debug\net8.0\03. Word Synonyms.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\bin\Debug\net8.0\03. Word Synonyms.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\bin\Debug\net8.0\03. Word Synonyms.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\refint\03. Word Synonyms.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\03. Word Synonyms.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\03. Word Synonyms\03. Word Synonyms\obj\Debug\net8.0\ref\03. Word Synonyms.dll

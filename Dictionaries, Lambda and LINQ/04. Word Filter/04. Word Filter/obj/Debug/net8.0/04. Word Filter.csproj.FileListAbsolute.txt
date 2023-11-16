@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\bin\Debug\net8.0\04. Word Filter.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\bin\Debug\net8.0\04. Word Filter.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\bin\Debug\net8.0\04. Word Filter.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\bin\Debug\net8.0\04. Word Filter.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\bin\Debug\net8.0\04. Word Filter.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\refint\04. Word Filter.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\04. Word Filter.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\04. Word Filter\04. Word Filter\obj\Debug\net8.0\ref\04. Word Filter.dll
