@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\bin\Debug\net8.0\07. Orders.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\bin\Debug\net8.0\07. Orders.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\bin\Debug\net8.0\07. Orders.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\bin\Debug\net8.0\07. Orders.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\bin\Debug\net8.0\07. Orders.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\refint\07. Orders.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\07. Orders.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\07. Orders\07. Orders\obj\Debug\net8.0\ref\07. Orders.dll

@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\bin\Debug\net8.0\06. A Miner Task.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\refint\06. A Miner Task.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\06. A Miner Task.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\06. A Miner Task\06. A Miner Task\obj\Debug\net8.0\ref\06. A Miner Task.dll

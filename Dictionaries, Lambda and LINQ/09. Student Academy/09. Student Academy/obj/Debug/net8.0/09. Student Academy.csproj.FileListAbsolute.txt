@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\bin\Debug\net8.0\09. Student Academy.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\bin\Debug\net8.0\09. Student Academy.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\bin\Debug\net8.0\09. Student Academy.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\bin\Debug\net8.0\09. Student Academy.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\bin\Debug\net8.0\09. Student Academy.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\refint\09. Student Academy.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\09. Student Academy.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\09. Student Academy\09. Student Academy\obj\Debug\net8.0\ref\09. Student Academy.dll
