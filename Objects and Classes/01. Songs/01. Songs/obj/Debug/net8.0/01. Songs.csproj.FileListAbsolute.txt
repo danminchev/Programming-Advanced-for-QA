@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\bin\Debug\net8.0\01. Songs.exe
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\bin\Debug\net8.0\01. Songs.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\bin\Debug\net8.0\01. Songs.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\bin\Debug\net8.0\01. Songs.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\bin\Debug\net8.0\01. Songs.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\refint\01. Songs.dll
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.pdb
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\01. Songs.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Dictionaries, Lambda and LINQ\01. Songs\01. Songs\obj\Debug\net8.0\ref\01. Songs.dll

@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\bin\Debug\net8.0\03. Store Boxes.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\bin\Debug\net8.0\03. Store Boxes.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\bin\Debug\net8.0\03. Store Boxes.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\bin\Debug\net8.0\03. Store Boxes.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\bin\Debug\net8.0\03. Store Boxes.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\refint\03. Store Boxes.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\03. Store Boxes.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\03. Store Boxes\03. Store Boxes\obj\Debug\net8.0\ref\03. Store Boxes.dll

@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\bin\Debug\net8.0\04. Vehicle Catalogue.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\refint\04. Vehicle Catalogue.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\04. Vehicle Catalogue.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\04. Vehicle Catalogue\04. Vehicle Catalogue\obj\Debug\net8.0\ref\04. Vehicle Catalogue.dll
