@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Programming-Advanced-for-QA\\Objects and Classes\\DefiningClasses\\CarManufacturer\\CarManufacturer.csproj",
+      "projectUniqueName": "D:\\GitHub\\Programming-Advanced-for-QA\\Objects and Classes\\05.DefiningClasses\\CarManufacturer\\CarManufacturer.csproj",
       "projectName": "CarManufacturer",
-      "projectPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Objects and Classes\\DefiningClasses\\CarManufacturer\\CarManufacturer.csproj",
+      "projectPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Objects and Classes\\05.DefiningClasses\\CarManufacturer\\CarManufacturer.csproj",
       "packagesPath": "C:\\Users\\Didaka\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Objects and Classes\\DefiningClasses\\CarManufacturer\\obj\\",
+      "outputPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Objects and Classes\\05.DefiningClasses\\CarManufacturer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Didaka\\AppData\\Roaming\\NuGet\\NuGet.Config",

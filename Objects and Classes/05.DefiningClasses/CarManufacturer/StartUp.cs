@@ -14,8 +14,11 @@ namespace CarManufacturer
             vwMk3.Make = "VW";
             vwMk3.Model = "MK3";
             vwMk3.Year = 1992;
+            vwMk3.FuelQuantity = 200;
+            vwMk3.FuelCounsumption = 200;
+            vwMk3.Drive(2000);
 
-            Console.WriteLine($"Make: {vwMk3.Make}\nModel: {vwMk3.Model}\nYear: {vwMk3.Year}");
+            Console.WriteLine(vwMk3.WhoAmI());
         }
     }
 }
