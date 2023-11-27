@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\bin\Debug\net8.0\05.CarManufacture.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\bin\Debug\net8.0\05.CarManufacture.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\bin\Debug\net8.0\05.CarManufacture.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\bin\Debug\net8.0\05.CarManufacture.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\bin\Debug\net8.0\05.CarManufacture.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\refint\05.CarManufacture.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\05.CarManufacture.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\05. Car\05. Car\obj\Debug\net8.0\ref\05.CarManufacture.dll

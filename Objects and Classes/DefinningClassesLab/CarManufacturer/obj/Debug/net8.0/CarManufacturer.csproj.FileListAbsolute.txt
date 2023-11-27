@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\bin\Debug\net8.0\CarManufacturer.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\bin\Debug\net8.0\CarManufacturer.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\bin\Debug\net8.0\CarManufacturer.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\bin\Debug\net8.0\CarManufacturer.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\bin\Debug\net8.0\CarManufacturer.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\refint\CarManufacturer.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\CarManufacturer.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\DefinningClassesLab\CarManufacturer\obj\Debug\net8.0\ref\CarManufacturer.dll

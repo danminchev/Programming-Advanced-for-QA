@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\bin\Debug\net8.0\08. Car Engine And Tires.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\bin\Debug\net8.0\08. Car Engine And Tires.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\bin\Debug\net8.0\08. Car Engine And Tires.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\bin\Debug\net8.0\08. Car Engine And Tires.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\bin\Debug\net8.0\08. Car Engine And Tires.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\refint\08. Car Engine And Tires.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\08. Car Engine And Tires.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\08. Car Engine And Tires\08. Car Engine And Tires\obj\Debug\net8.0\ref\08. Car Engine And Tires.dll

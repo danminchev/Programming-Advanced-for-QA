@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\bin\Debug\net8.0\06. Car Extension.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\bin\Debug\net8.0\06. Car Extension.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\bin\Debug\net8.0\06. Car Extension.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\bin\Debug\net8.0\06. Car Extension.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\bin\Debug\net8.0\06. Car Extension.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\refint\06. Car Extension.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\06. Car Extension.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\06. Car Extension\06. Car Extension\obj\Debug\net8.0\ref\06. Car Extension.dll
