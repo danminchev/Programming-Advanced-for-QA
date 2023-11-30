@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\bin\Debug\net8.0\11. Teamwork Projects.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\bin\Debug\net8.0\11. Teamwork Projects.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\bin\Debug\net8.0\11. Teamwork Projects.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\bin\Debug\net8.0\11. Teamwork Projects.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\bin\Debug\net8.0\11. Teamwork Projects.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\refint\11. Teamwork Projects.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\11. Teamwork Projects.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\11. Teamwork Projects\11. Teamwork Projects\obj\Debug\net8.0\ref\11. Teamwork Projects.dll

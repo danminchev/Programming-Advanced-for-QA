@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\bin\Debug\net8.0\10. Articles.exe
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\bin\Debug\net8.0\10. Articles.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\bin\Debug\net8.0\10. Articles.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\bin\Debug\net8.0\10. Articles.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\bin\Debug\net8.0\10. Articles.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\refint\10. Articles.dll
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.pdb
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\10. Articles.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Objects and Classes\10. Articles\10. Articles\obj\Debug\net8.0\ref\10. Articles.dll
