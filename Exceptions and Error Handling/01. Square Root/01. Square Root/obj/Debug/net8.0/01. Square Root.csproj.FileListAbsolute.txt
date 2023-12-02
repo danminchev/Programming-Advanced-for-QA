@@ -1,0 +1,15 @@
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\bin\Debug\net8.0\01. Square Root.exe
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\bin\Debug\net8.0\01. Square Root.deps.json
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\bin\Debug\net8.0\01. Square Root.runtimeconfig.json
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\bin\Debug\net8.0\01. Square Root.dll
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\bin\Debug\net8.0\01. Square Root.pdb
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.AssemblyInfo.cs
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.sourcelink.json
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.dll
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\refint\01. Square Root.dll
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.pdb
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\01. Square Root.genruntimeconfig.cache
+D:\GitHub\Programming-Advanced-for-QA\Exceptions and Error Handling\01. Square Root\01. Square Root\obj\Debug\net8.0\ref\01. Square Root.dll
