@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JdsVVDEF9cU97E9dtgkXHieZDUmRA/kSI2dUvily+cXRo8cYIit4vQ0tEbbohngWMViuTMxjbmjyENyMe//0JQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Programming-Advanced-for-QA\\Implementing an OOP Hierarchy\\ExerciseOopHierarchy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WepQSirNxkB7tVP0iSVc7l78+xxI8k8bfEwtfTkP+gSniIKAtmEy55rT38HumuQyOYsj0VGm2Ov3m4A3ENuVpA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Programming-Advanced-for-QA\\OOP Principles-Abstraction and Polymorphism\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
