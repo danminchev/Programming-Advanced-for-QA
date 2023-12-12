@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QmMK/FDn2vJH5G78G23t7EN3hOxH+y2schvJw3erZBrm3gDFccI/bcj8jFA7Hi4ffCj9TInuN9errubtNB01kA==",
+  "dgSpecHash": "wkE2+8Led4mA6WQFNHfRAkch/fTzTJMXKfD2ARB0o5KKHL4mTSd7jW8hmHU7yRP5Ko0HalbAvC+o+juXYuN3TA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing Strings and Regular Expressions\\TestApp\\TestApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing-Strings and Regular Expressions\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Didaka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

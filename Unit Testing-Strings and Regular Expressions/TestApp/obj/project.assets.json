@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing Strings and Regular Expressions\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing-Strings and Regular Expressions\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing Strings and Regular Expressions\\TestApp\\TestApp.csproj",
+      "projectPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing-Strings and Regular Expressions\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\Didaka\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing Strings and Regular Expressions\\TestApp\\obj\\",
+      "outputPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Unit Testing-Strings and Regular Expressions\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Didaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,12 +56,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
