@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\acheb\\.nuget\\packages\\": {}
+    "C:\\Users\\Didaka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acheb\\Documents\\SoftUni\\softuni-courses\\qa-profession\\QA-Programming\\02.Programming-Advanced-for-QA\\Week 6\\18-Exam-Preparation-III\\03-Chat\\03-Chat-Resources\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "D:\\GitHub\\Programming-Advanced-for-QA\\Exam-Preparation-3\\03-Chat\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\acheb\\Documents\\SoftUni\\softuni-courses\\qa-profession\\QA-Programming\\02.Programming-Advanced-for-QA\\Week 6\\18-Exam-Preparation-III\\03-Chat\\03-Chat-Resources\\TestApp\\TestApp.csproj",
-      "packagesPath": "C:\\Users\\acheb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acheb\\Documents\\SoftUni\\softuni-courses\\qa-profession\\QA-Programming\\02.Programming-Advanced-for-QA\\Week 6\\18-Exam-Preparation-III\\03-Chat\\03-Chat-Resources\\TestApp\\obj\\",
+      "projectPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Exam-Preparation-3\\03-Chat\\TestApp\\TestApp.csproj",
+      "packagesPath": "C:\\Users\\Didaka\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Programming-Advanced-for-QA\\Exam-Preparation-3\\03-Chat\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acheb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Didaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -56,6 +56,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
